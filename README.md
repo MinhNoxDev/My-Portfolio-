@@ -7,7 +7,7 @@ Trang portfolio cá nhân giới thiệu Bùi Minh Cường, sinh viên năm nh�
 - **Portfolio:** https://minhnoxdev.github.io/My-Portfolio-/
 - **Mã nguồn:** https://github.com/MinhNoxDev/My-Portfolio-
 
-Sau khi bật GitHub Pages cho nhánh `main` và thư mục gốc, trang sẽ được xuất bản tại liên kết portfolio phía trên. Quá trình xuất bản lần đầu có thể mất vài phút.
+GitHub Actions tự động triển khai trang lên GitHub Pages mỗi khi có thay đổi trên nhánh `main`. Lần triển khai đầu tiên có thể mất vài phút.
 
 ## Nội dung
 
